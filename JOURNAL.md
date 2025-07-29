@@ -11,3 +11,9 @@ First, I read the long(very) guide of Anicept Vex CoreXY on the website. Tried t
 I have decided to make my own large format 3d printer.
 
 **Total time spent: 1h**
+
+# July 29th: Print Head
+
+The guide said to design the printhead first. So thats what I am doing. I am using a V6 hotend and a Titan extruder clone.
+
+<img width="527" height="705" alt="image" src="https://github.com/user-attachments/assets/aaf20922-9a70-4647-a167-d4b7f510cfe2" />
