@@ -23,6 +23,13 @@ Made a mount for the fan and an air duct.
 <img width="568" height="447" alt="image" src="https://github.com/user-attachments/assets/8ea64a6a-8ac4-4eca-8c81-6c398b8c4e9e" />
 
 Added the v6 heatsink fan and duct.
+
 <img width="576" height="579" alt="image" src="https://github.com/user-attachments/assets/bbb7881a-9c7f-400b-8deb-a3a0278986de" />
 
-**Total time spent: 3h**
+Added the crtouch probe and mount with holes.
+
+<img width="800" height="684" alt="image" src="https://github.com/user-attachments/assets/5bc586fe-e338-45cb-9de6-beea4a92e619" />
+
+**Total time spent: 4h**
+
+
