@@ -18,4 +18,4 @@ A 3D printer
 | Smooth Idler | | Novo | | | https://novo3d.in/idler-pulley/ |
 | Idler with teeth | | Novo | | | https://novo3d.in/idler-pulley-6mm/ |
 | Timing Belt | | Novo | | | https://novo3d.in/gt2-10mm-timing-belt/ |
-| Dowel Pins | | ThinkRobotics | | https://thinkrobotics.com/products/stainless-steel-dowel-pins-assembly-pins-pack-of-10 |
+| Dowel Pins | | ThinkRobotics | | | https://thinkrobotics.com/products/stainless-steel-dowel-pins-assembly-pins-pack-of-10 |
